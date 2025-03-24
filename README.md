@@ -27,8 +27,6 @@ This project uses the RAVDESS dataset for emotion recognition.
 🔹 Experiment with **more features** like pitch and energy levels.  
 🔹 Create a **real-time emotion detection app** using Flask or Streamlit.  
 
----
-
 ## 👤 Author & Acknowledgments  
 🚀 **Author:** Kirti Chaudhari  
 📊 **Tools Used:** Python, Librosa, Scikit-Learn, NumPy  
