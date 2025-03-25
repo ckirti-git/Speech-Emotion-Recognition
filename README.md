@@ -22,6 +22,7 @@ This project implements a Speech Emotion Recognition (SER) model using machine l
 
 ## Dataset Used
 This project uses the RAVDESS dataset for emotion recognition.
+(You can download dataset from above files)
 
 ## 📢 Future Improvements  
 🔹 Try **Deep Learning models** like **CNN** or **LSTMs** for improved accuracy.  
