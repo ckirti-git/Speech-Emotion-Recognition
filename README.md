@@ -4,7 +4,8 @@ This project implements a Speech Emotion Recognition (SER) model using machine l
 
 ## 📂 Project Files
 - **`speech_emo.py`** → Python script for feature extraction, model training, and evaluation.
-
+- **`Speech_Emo.ipynb`** → Jupyter Notebook version with step-by-step explanations.
+  
 ## 🚀 Features
 - Uses `librosa` for audio processing.
 - Extracts MFCC, chroma, and mel-spectrogram features.
