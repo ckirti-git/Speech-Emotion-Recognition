@@ -3,8 +3,8 @@
 This project implements a Speech Emotion Recognition (SER) model using machine learning techniques. The model analyzes audio files and classifies emotions such as calm, happy, fearful, and disgust.
 
 ## 📂 Project Files
-- **`speech_emo.py`** → Python script for feature extraction, model training, and evaluation.
-- **`Speech_Emo.ipynb`** → Jupyter Notebook version with step-by-step explanations.
+- **`speech_emo.py`**  →  Python script for feature extraction, model training, and evaluation.
+- **`Speech_Emo.ipynb`**  →  Jupyter Notebook version with step-by-step explanations.
   
 ## 🚀 Features
 - Uses `librosa` for audio processing.
